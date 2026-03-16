@@ -18,7 +18,7 @@ Jak spustit?
 Otevři stránku https://vlak007.github.io/edik_medik/ v prohlížeči, zadej jméno a svůj Anthropic API klíč.
 API klíč si zdarma vytvoříš na console.anthropic.com. Klíč se ukládá jen v tvém prohlížeči.
 
-NEBO to zkusi Bez AI kouče a bez API klíče
+NEBO to zkus i bez AI kouče a bez API klíče.
 
 Kategorie úloh
 Čísla · Zlomky · Algebraické výrazy · Rovnice · Slovní úlohy · Geometrie · Logická tvrzení · Procenta · Posloupnosti
